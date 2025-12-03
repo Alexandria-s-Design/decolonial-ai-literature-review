@@ -196,3 +196,11 @@ GitHub. https://github.com/Alexandria-s-Design/decolonial-ai-literature-review
 
 **Last Updated**: November 19, 2025
 **Version**: 1.0
+
+## Status
+Active
+
+## TODO
+- [ ] Continue literature review
+- [ ] Develop framework documentation
+- [ ] Prepare for publication
